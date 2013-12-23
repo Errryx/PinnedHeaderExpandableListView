@@ -31,9 +31,7 @@ Using view tag to retrieve group views is not really a good implementation, but 
 License
 =======
 
-    Copyright 2012 Jake Wharton
-    Copyright 2011 Patrik Åkerfeldt
-    Copyright 2011 Francisco Figueiredo Jr.
+    Copyright 2013 Miao Gao
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
